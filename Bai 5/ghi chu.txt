@@ -1,0 +1,5 @@
+Cac thay co co the kiem tra ket qua chuong trinh tu file exe em dinh kem, con file .py
+thi em khong chac se chay tot tren cac moi truong lap trinh khac nhau tai vi khi em viet
+tren Jupyter Notebook thi co kha nhieu loi trong module turtle.
+Nhung em nghi cac thay co van co the test file .py bang cach chay truc tiep tren cmd.
+Em xin cam on cac thay co.
